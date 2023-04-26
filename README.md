@@ -90,8 +90,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Task
 
-* Edit the README document, so that only the subsection Task remain
-* Open a pull request and let your teacher know that you’ve finished this course.  
+* add a python script called main.py
+* the python script should print "Hello World"
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
