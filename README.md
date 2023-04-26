@@ -91,7 +91,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ## 📝 Task
 
 * add a python script called main.py
-* the python script should print "Hello World"
+* the python script should print "Hello World!"
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
